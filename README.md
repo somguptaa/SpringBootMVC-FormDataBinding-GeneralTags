@@ -40,6 +40,19 @@ It allows users to register student details through a web form and displays the 
 
 ---
 
+## Screenshots
+
+### Home Page
+![Home Page Screenshot](screenshots/home.png)
+
+### Register Student Form
+![Register Form Screenshot](screenshots/register.png)
+
+### Registration Success Page
+![Success Page Screenshot](screenshots/success.png)
+
+---
+
 ## Application Flow
 1. User opens the Home Page  
 2. Clicks on the Register link  
